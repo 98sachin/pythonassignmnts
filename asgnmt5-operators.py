@@ -1,5 +1,5 @@
 """
-Assignment - 5 Full Stack Web Development using Python MySirG
+Assignment - 5
 
 Operators
 
