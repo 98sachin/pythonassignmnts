@@ -1,5 +1,5 @@
 """
-Assignment - 6 Full Stack Web Development using Python MySirG
+Assignment - 6 
 
 Decision Control
 
