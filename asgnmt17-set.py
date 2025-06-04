@@ -1,5 +1,5 @@
 '''
-Assignment - 17 Full Stack Web Development using Python MySirG
+Assignment - 17
 
 Set
 
