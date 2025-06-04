@@ -167,13 +167,13 @@ numbers or not.
 
 #Q 10. Write a python script to calculate HCF of two numbers
 
-def gcd(a, b):
-    while b:
-        a, b = b, a % b
-    return a
-def hcf(a, b):
-    return gcd(a, b)
-num1 = int(input("Enter first number: "))
-num2 = int(input("Enter second number: "))
-print(f"The HCF of {num1} and {num2} is {hcf(num1, num2)}")
+# def gcd(a, b):
+#     while b:
+#         a, b = b, a % b
+#     return a
+# def hcf(a, b):
+#     return gcd(a, b)
+# num1 = int(input("Enter first number: "))
+# num2 = int(input("Enter second number: "))
+# print(f"The HCF of {num1} and {num2} is {hcf(num1, num2)}")
 # ================================================================
