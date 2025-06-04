@@ -1,5 +1,5 @@
 '''
-Assignment - 20 Full Stack Web Development using Python MySirG
+Assignment - 20
 
 More on functions
 
