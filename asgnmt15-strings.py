@@ -1,5 +1,5 @@
 '''
-Assignment - 15 Full Stack Web Development using Python MySirG
+Assignment - 15
 
 Strings
 
