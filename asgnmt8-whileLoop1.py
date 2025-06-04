@@ -1,5 +1,5 @@
 """
-Assignment - 8 Full Stack Web Development using Python MySirG
+Assignment - 8
 While Loop I
 1. Write a python script to print MySirG 5 times on the screen
 2. Write a python script to print first 10 natural numbers
