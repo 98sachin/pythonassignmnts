@@ -1,5 +1,5 @@
 """
-Assignment - 4 Full Stack Web Development using Python MySirG
+Assignment - 4 
 User Input Problems
 
 1. Write a python script to take your name as input from the user and then print it.
