@@ -1,5 +1,5 @@
 """
-Assignment - 10 Full Stack Web Development using Python MySirG
+Assignment - 10
 
  for loop and range
 
